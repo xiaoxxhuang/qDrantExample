@@ -1,0 +1,6 @@
+qdrant-client
+sentence-transformers
+pdfplumber
+nltk
+tabulate
+flask
